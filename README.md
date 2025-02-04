@@ -5,4 +5,4 @@ a simple search engine that uses the duckduckgo api
 - semi-clean ui
 
 # todo
-fix images
+add image search
